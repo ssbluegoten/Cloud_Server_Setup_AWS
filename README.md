@@ -10,7 +10,7 @@ Documentation for the virtual machine setup on AWS.
 
 ## Security Configuration
 * **Inbound Rules:** Restricted to SSH (Port 22) from my local IP.
-![Security Group](documents/Security_Detail.PNG)
+![Security Group](documents/Security_Details.PNG)
 
 ## Connection Verification
 Successfully connected via SSH using Windows Terminal.
