@@ -17,5 +17,5 @@ Successfully connected via SSH using Windows Terminal.
 ![SSH Connection](documents/Connect_to_VM.PNG)
 
 ## Update and Upgrade Verification
-The system is confirmed to be up-to-date after running sudo apt update && sudo apt upgrade -y. Output confirms 0 packages needing upgrade..
-![Update/Upgrade](documents/VM_Update.PNG)
+The system is confirmed to be up-to-date after running sudo apt update && sudo apt upgrade -y. Output confirms 0 packages needing upgrade.
+![Update and Upgrade](documents/VM_Update.PNG)
